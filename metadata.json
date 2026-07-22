@@ -1,0 +1,6 @@
+{
+  "name": "MONDRIAN LIFE",
+  "description": "A neo-plasticism inspired life structure and activity grid planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
